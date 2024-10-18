@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(34, 33, 33);
+}
+
+.div {
+    text-align: center;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    
+}
